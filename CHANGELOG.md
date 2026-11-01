@@ -1,3 +1,11 @@
+## [2.0.4](https://github.com/veduco/patcheddit/compare/v2.0.3...v2.0.4) (2026-11-01)
+
+
+### Bug Fixes
+
+* Emulate removed Redgifs /info endpoint and fix Sync gif ids ([69dc24d](https://github.com/veduco/patcheddit/commit/69dc24d3f8e4585725dd361a5e8358a01db9d591)), closes [#100](https://github.com/veduco/patcheddit/issues/100)
+* Load more comments and Reddit galleries in Sync for Reddit ([c904ae3](https://github.com/veduco/patcheddit/commit/c904ae36dbb659fa430483067f136a8dc115c29a))
+
 ## [2.0.3](https://github.com/wchill/patcheddit/compare/v2.0.2...v2.0.3) (2026-10-30)
 
 
